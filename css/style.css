@@ -22,7 +22,9 @@ h3 {
   padding: 0 10%;
 }
 #image {
+  display: block;
   width: 100%;
+  max-width: 1024px;
 }
 
 #img-caption {
